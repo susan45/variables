@@ -1,5 +1,3 @@
-
-
 public class IndiceCadena {
     public static void main(String[] args) {
         //Manejo de indices en una cadena

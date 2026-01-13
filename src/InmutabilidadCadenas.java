@@ -1,5 +1,3 @@
-
-
 public class InmutabilidadCadenas {
     public static void main(String[] args) {
         //Inmutabilidad de cadenas

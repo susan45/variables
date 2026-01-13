@@ -1,5 +1,3 @@
-
-
 public class ReglasNombresVariables {
     public static void main(String[] args) {
         //Reglas nombres variables

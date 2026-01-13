@@ -1,5 +1,3 @@
-
-
 public class TipoVar {
     public static void main(String[] args) {
         //Sin el uso de var

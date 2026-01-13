@@ -1,5 +1,3 @@
-
-
 public class TiendaLinea {
     public static void main(String[] args) {
         //Detalle del producto

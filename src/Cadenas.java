@@ -1,5 +1,3 @@
-
-
 public class Cadenas {
     public static void main(String[] args) {
         System.out.println("*** Manejo de Cadenas en Java ***");
@@ -17,6 +15,5 @@ public class Cadenas {
                 lineas              
                 """;
         System.out.println("cadena4 = " + cadena4);
-
     }
 }

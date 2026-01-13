@@ -1,5 +1,3 @@
-
-
 public class Constantes {
     public static void main(String[] args) {
         System.out.println("*** Constantes en Java ***");
@@ -11,8 +9,5 @@ public class Constantes {
         System.out.println("Math.PI " + Math.PI);
         final var MENSAJE_BIENVENIDA = "Mensaje de Bienvenida";
         System.out.println("MENSAJE_BIENVENIDA = " + MENSAJE_BIENVENIDA);
-
-
-
     }
 }

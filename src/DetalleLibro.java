@@ -1,5 +1,3 @@
-
-
 public class DetalleLibro {
     public static void main(String[] args) {
         //Detalle de un Libro
@@ -17,7 +15,5 @@ public class DetalleLibro {
         //Modificar titulo libro
         tituloLibro = "El Señor de los Anillos";
         System.out.println(tituloLibro);
-
-
     }
 }
